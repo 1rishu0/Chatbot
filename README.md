@@ -153,7 +153,3 @@ curl -X POST http://127.0.0.1:8000/api/conversations/<id>/send_message/ \
 - Tools for the agent (calculator, web search, document lookup)
 - Streaming replies
 - User authentication
-
-## License
-
-Choose a license (for example MIT) and add a `LICENSE` file before publishing.
