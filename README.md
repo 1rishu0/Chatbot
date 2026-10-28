@@ -47,7 +47,7 @@ ChatBot/
 **Requirements:** [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/1rishu0/Chatbot
 cd ChatBot
 docker compose up --build
 ```
