@@ -42,6 +42,11 @@ ChatBot/
 └── README.md
 ```
 
+## Sample Video
+
+https://github.com/user-attachments/assets/b1471237-66d5-41b6-abb3-81ce18c95247
+
+
 ## Quick Start (Docker)
 
 **Requirements:** [Docker Desktop](https://www.docker.com/products/docker-desktop/)
